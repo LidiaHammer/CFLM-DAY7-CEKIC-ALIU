@@ -1,0 +1,27 @@
+	*declare the variables in the ATM machine
+	n=(100, 50, 20, 10 ) //ordered from max-min
+	*User IMPUT a number -> X
+	
+	80         *if X=n( )
+	           *OUTPUT -->withdrawel sucssessful
+	            Else
+
+	80-100=-20 *X-n1=X --> negative value (go to  the next)  ---->  
+		   *X-n2=X --> nagative (go next)
+		else
+	80-50=30   *X-n1 --> negative value (go to the next one)
+		else
+		   *X-n2=result --> nagative (go next)
+		else
+		OUTPUT=n2+n3+result
+
+	   
+		*x-n1    
+		*30-100=-70
+		    30-50=-20
+                    30-20=10 --> it is positive	
+                    OUTPUTn3+result+n2
+	        
+	*else
+
+	30*output n2+result
