@@ -1,0 +1,6 @@
+*Computer -> sets number x
+*User -> gess number y
+*if x=y -> output YOU HAVE GUESSED SIUCCSESSFULY
+*while y != x
+*if y>x -> guess lower -->try again
+*if y<x -> guess higher-->try again
